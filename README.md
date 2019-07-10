@@ -1,5 +1,5 @@
 # D2_nback_connectivity_eLife2019
-Data and code for the paper: 'Task-induced functional brain connectivity mediates the relationship between striatal D2/3 receptors and working memory', published in eLife 2019
+Data and code for the paper: 'Task-induced functional brain connectivity mediates the relationship between striatal D2/3 receptors and working memory', published in eLife 2019, https://doi.org/10.7554/eLife.45045.
 
 eLife_code contains the MATALB and R scripts needed to reproduce the main funcitonal connectivity results from the above paper. 
 The scripts call upon the data in the eLife_data folder. Supplementary scriptsare included to illustrate how key variables were created (e.g. consensus clustering and calculation of load-dependent connectivity change)
